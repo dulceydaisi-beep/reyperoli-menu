@@ -50,7 +50,7 @@ const products = [
     name: "Lomo Mediano + Papas",
     category: "Sándwiches",
     price: 20000,
-    desc: "Lomo de carne mediano completo con porción de papas fritas.",
+    desc: "Sándwich de lomo completo en pan artesanal, acompañado con papas fritas.",
     image: "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=300"
   },
   {
@@ -66,8 +66,8 @@ const products = [
     name: "Promo: 2 Lomos Medianos + Papas",
     category: "Sándwiches",
     price: 30000,
-    desc: "2 lomos medianos completos con porción grande de papas fritas.",
-    image: "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=300"
+    desc: "2 sándwiches de lomo medianos completos con porción abundante de papas fritas.",
+    image: "https://images.unsplash.com/photo-1550547660-d9450f859349?w=300"
   },
 
   // 🥟 EMPANADAS
@@ -76,7 +76,7 @@ const products = [
     name: "Docena Empanadas Comunes",
     category: "Empanadas",
     price: 13000,
-    desc: "12 empanadas tradicionales criollas horneadas.",
+    desc: "12 empanadas tradicionales horneadas (carne o pollo).",
     image: "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=300"
   },
   {
@@ -118,8 +118,8 @@ const products = [
     name: "Pancho con Poncho",
     category: "Panchos",
     price: 6000,
-    desc: "Pancho especial envuelto en queso derretido, panceta y crocantes.",
-    image: "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?w=300"
+    desc: "Pancho gigante envuelto en una capa crocante de queso gratinado y panceta.",
+    image: "https://images.unsplash.com/photo-1619740455993-9e612b1af08a?w=300"
   },
 
   // 🍟 PAPAS FRITAS
@@ -144,8 +144,8 @@ const products = [
     name: "Papas Fritas - Bandeja Grande",
     category: "Papas Fritas",
     price: 10000,
-    desc: "Bandeja familiar grande super abundante.",
-    image: "https://images.unsplash.com/photo-1630384060421-cb3f1e575323?w=300"
+    desc: "Bandeja familiar super abundante de papas bastón crocantes.",
+    image: "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=300"
   },
 
   // 🥤 BEBIDAS
@@ -194,16 +194,16 @@ const products = [
     name: "Agua Saborizada 500ml",
     category: "Bebidas",
     price: 1500,
-    desc: "Botella individual de 500ml bien fría.",
-    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=300"
+    desc: "Agua saborizada Levité / Aquarius 500ml bien fría.",
+    image: "https://images.unsplash.com/photo-1556881286-fc6915169721?w=300"
   },
   {
     id: 24,
     name: "Agua Saborizada 1,5L",
     category: "Bebidas",
     price: 3000,
-    desc: "Botella de 1,5 Litros.",
-    image: "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=300"
+    desc: "Agua saborizada Levité / Aquarius 1,5 Litros.",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=300"
   },
   {
     id: 25,
@@ -226,8 +226,8 @@ const products = [
     name: "Quilmes Botella de Vidrio",
     category: "Bebidas",
     price: 5500,
-    desc: "Cerveza Quilmes en botella de vidrio 1L.",
-    image: "https://images.unsplash.com/photo-1584225065152-4a1454aa3d4e?w=300"
+    desc: "Cerveza Quilmes en botella clásica de vidrio 1L.",
+    image: "https://images.unsplash.com/photo-1600788886242-5c96aabe3757?w=300"
   }
 ];
 
