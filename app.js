@@ -43,7 +43,7 @@ const products = [
     category: "Sándwiches",
     price: 14000,
     desc: "Hamburguesa completa acompañada con porción de papas fritas.",
-    image: "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f6?w=300"
+    image: "https://images.unsplash.com/photo-1550547660-d9450f859349?w=300"
   },
   {
     id: 6,
@@ -194,8 +194,8 @@ const products = [
     name: "Agua Saborizada 500ml",
     category: "Bebidas",
     price: 1500,
-    desc: "Botella individual de 500ml.",
-    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?w=300"
+    desc: "Botella individual de 500ml bien fría.",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=300"
   },
   {
     id: 24,
@@ -203,7 +203,7 @@ const products = [
     category: "Bebidas",
     price: 3000,
     desc: "Botella de 1,5 Litros.",
-    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?w=300"
+    image: "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=300"
   },
   {
     id: 25,
